@@ -1,0 +1,7 @@
+{
+  "firebase_roundtrip_ok": true,
+  "database_url": "https://rgr-iot-variant3-default-rtdb.europe-west1.firebasedatabase.app",
+  "node": "rgr_variant3_weather_2025",
+  "days": 365,
+  "measurements": 1460
+}

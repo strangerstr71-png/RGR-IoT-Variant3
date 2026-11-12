@@ -1,0 +1,5 @@
+﻿sensor,mean,median,min,max,std
+wind_speed,5.953,5.849,2.832,11.594,1.630
+temperature,12.187,12.110,-9.516,33.803,9.756
+precipitation,3.312,0.000,0.000,31.981,5.632
+solar_radiation,363.799,353.808,0.000,778.930,186.100

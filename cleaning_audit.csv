@@ -1,0 +1,5 @@
+sensor,missing_before,invalid_before,missing_after
+wind_speed,8,4,0
+temperature,8,4,0
+precipitation,8,4,0
+solar_radiation,8,4,0

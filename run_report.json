@@ -1,0 +1,48 @@
+{
+  "days": 365,
+  "sensors": 4,
+  "sqlite_measurements": 1460,
+  "cleaning": [
+    {
+      "sensor": "wind_speed",
+      "missing_before": 8,
+      "invalid_before": 4,
+      "missing_after": 0
+    },
+    {
+      "sensor": "temperature",
+      "missing_before": 8,
+      "invalid_before": 4,
+      "missing_after": 0
+    },
+    {
+      "sensor": "precipitation",
+      "missing_before": 8,
+      "invalid_before": 4,
+      "missing_after": 0
+    },
+    {
+      "sensor": "solar_radiation",
+      "missing_before": 8,
+      "invalid_before": 4,
+      "missing_after": 0
+    }
+  ],
+  "temperature_linear_trend_c_per_day": -0.011,
+  "compression": {
+    "original": 39730,
+    "gzip": 6362,
+    "zlib": 6350,
+    "bzip2": 4799,
+    "best": "bzip2",
+    "compression_ratio_pct": {
+      "gzip": 16.01,
+      "zlib": 15.98,
+      "bzip2": 12.08
+    },
+    "sha256": "c4337a2a412b72d31c044963e9e445e855e5daf9c557df52bd9f4453e37808f5"
+  },
+  "local_run": true,
+  "firebase_uploaded": false,
+  "colab_downloaded": false
+}

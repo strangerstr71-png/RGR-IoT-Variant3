@@ -1,0 +1,13 @@
+{
+  "original": 39730,
+  "gzip": 6362,
+  "zlib": 6350,
+  "bzip2": 4799,
+  "best": "bzip2",
+  "compression_ratio_pct": {
+    "gzip": 16.01,
+    "zlib": 15.98,
+    "bzip2": 12.08
+  },
+  "sha256": "c4337a2a412b72d31c044963e9e445e855e5daf9c557df52bd9f4453e37808f5"
+}
