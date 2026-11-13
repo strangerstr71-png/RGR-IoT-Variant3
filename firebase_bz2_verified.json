@@ -1,0 +1,11 @@
+{
+  "status": "FIREBASE BZIP2 DOWNLOAD VERIFY OK",
+  "days": 365,
+  "measurements": 1460,
+  "raw_bytes": 39730,
+  "bz2_bytes": 4799,
+  "sha256": "c4337a2a412b72d31c044963e9e445e855e5daf9c557df52bd9f4453e37808f5",
+  "node": "rgr_variant3_weather_2025_optimized",
+  "checked_utc": "2026-11-13T07:25:22.812415+00:00",
+  "roundtrip_verified": true
+}
